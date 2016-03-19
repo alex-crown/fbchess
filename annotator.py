@@ -10,7 +10,7 @@ wrapper around readline
 lines returned are stripped
 if no more input lines remain, prints results and quits
 '''
-def readnextline(input):
+def readnextline():
     line = input.readline()
     if not line:
         printresults('')
@@ -24,24 +24,24 @@ Reads a single move from the log
 A move is of the form #. move or #... move
 Reads game start, undos, and end
 '''
-def readmove(input):
-    line = readnextline(input)
+def readmove():
+    line = readnextline()
     while line != 'FBChess':
-        line = readnextline(input)
+        line = readnextline()
     
-    line = readnextline(input)
+    line = readnextline()
     if line != 'FBChess':
-        return readmove(input)
+        return readmove()
 
-    line = readnextline(input)
+    line = readnextline()
     if any([substring in line for substring in nonmovestrings]):
         return line
     
     # consume another line of input    
-    readnextline(input)   
+    readnextline()   
     
     # return this line which contains the move number, side, and move
-    return readnextline(input)
+    return readnextline()
     
 '''
 adds a single line of the form "movenum. move" to the list
@@ -90,11 +90,11 @@ white = []
 black = []
 
 # read in the first move
-move = readmove(input)
+move = readmove()
 
 # skip to the first move if "starting game" was selected
 if not move.startswith("1"):
-    move = readmove(input)
+    move = readmove()
 
 # read moves until end of game reached
 while not any([string in move for string in gameover]):
@@ -102,6 +102,6 @@ while not any([string in move for string in gameover]):
         addmovetolist(black, move)
     elif "." in move:
         addmovetolist(white, move)
-    move = readmove(input)
+    move = readmove()
 
 printresults(move)
