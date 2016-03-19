@@ -1,0 +1,900 @@
+@fbchess show
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+1. e4
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Pe5
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+1... e5
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Nf3
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+2. Nf3
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Nc6
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+2... Nc6
+Play chess in Messenger with your friends
+
+Player1
+@fbchess d4
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+3. d4
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Bb4
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+3... Bb4+
+Play chess in Messenger with your friends
+
+Check!
+Player2 
+Player1
+@fbchess c3
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+4. c3
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Ba5
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+4... Ba5
+Play chess in Messenger with your friends
+
+Player1
+@fbchess d5
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+5. d5
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Nd4
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+5... Nd4
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Nxd4
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+6. Nxd4
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Pd4
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+6... xd4
+Play chess in Messenger with your friends
+
+Player1
+Up a pawn
+Ah yeah
+@fbchess Qxd4
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+7. Qxd4
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Pb5
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+7... b5
+Play chess in Messenger with your friends
+
+@fbchess Bxb5
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+8. Bxb5
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+@fbchess undo
+FBChess
+FBChess
+You have requested an undo
+Player1
+If you want
+Player2 
+Player2
+I don't undo
+Player1
+Sure
+Player1
+
+Player1
+@fbchess show
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+8. Bxb5
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+@fbchess Nf6
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+8... Nf6
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Nd2
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+9. Nd2
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Bb6
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+9... Bb6
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Qe5
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+10. Qe5+
+Play chess in Messenger with your friends
+
+Undo
+Check!
+Player2 
+Player2
+@fbchess Qe7
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+10... Qe7
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Qxe7
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+11. Qxe7+
+Play chess in Messenger with your friends
+
+Undo
+Check!
+Player2 
+@fbchess Ke7
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+11... Kxe7
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Nc4
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+12. Nc4
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Ne4
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+12... Nxe4
+Play chess in Messenger with your friends
+
+Player2 
+Player1
+@fbchess f3
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+13. f3
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Nc5
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+13... Nc5
+Play chess in Messenger with your friends
+
+Player1
+@fbchess b4
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+14. b4
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Nd3
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+14... Nd3+
+Play chess in Messenger with your friends
+
+Check!
+Player1
+@fbchess Kd2
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+15. Kd2
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Nf4
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+15... Nf4
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Kc2
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+16. Kc2
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Nd5
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+16... Nxd5
+Play chess in Messenger with your friends
+
+Player2 
+Player1
+@fbchess Re1
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+17. Re1+
+Play chess in Messenger with your friends
+
+Undo
+Check!
+Player2 
+Player2
+@fbchess Kf8
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+17... Kf8
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Nxb6
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+18. Nxb6
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess a7xb6
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+18... axb6
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Kb3
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+19. Kb3
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Ne7
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+19... Ne7
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Bg5
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+20. Bg5
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Pf6
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+20... f6
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Bf4
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+21. Bf4
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Pd6
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+21... d6
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Re2
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+22. Re2
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Nd5
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+22... Nd5
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Rae1
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+23. Rae1
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Ba6
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+23... Ba6
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Re8+
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+24. Re8+
+Play chess in Messenger with your friends
+
+Undo
+Check!
+Player2
+@fbchess Re8
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+24... Rxe8
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Rxe8
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+25. Rxe8+
+Play chess in Messenger with your friends
+
+Undo
+Check!
+Player2 
+Player2
+@fbchess Ke8
+FBChess
+FBChess
+The move does not remove the check on the king
+Player2
+@fbchess Kf7
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+25... Kf7
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Rxh8
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+26. Rxh8
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbcheee Bb5
+@fbchess Bb5
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+26... Bxb5
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Bd2
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+27. Bd2
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Bf1
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+27... Bf1
+Play chess in Messenger with your friends
+
+Player1
+@fbchess g4
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+28. g4
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Kg6
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+28... Kg6
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Re8
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+29. Re8
+Play chess in Messenger with your friends
+
+Undo
+Player1
+@fbchess show
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+29. Re8
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Bh3
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+29... Bh3
+Play chess in Messenger with your friends
+
+Player1
+@fbchess c4
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+30. c4
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+@fbchess Pc6
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+30... c6
+Play chess in Messenger with your friends
+
+Player1
+@fbchess cxd5
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+31. cxd5
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Pd5
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+31... xd5
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Re6
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+32. Re6
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+@fbchess Pd4
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+32... d4
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Rxd6
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+33. Rxd6
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+!fbchess Bg2
+@fbchess Bg2
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+33... Bg2
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Rxb6
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+34. Rxb6
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Bf3
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+34... Bxf3
+Play chess in Messenger with your friends
+
+Player1
+@fbchess a4
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+35. a4
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Bg4
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+35... Bxg4
+Play chess in Messenger with your friends
+
+Player1
+@fbchess a5
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+36. a5
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Bc8
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+36... Bc8
+Play chess in Messenger with your friends
+
+Player1
+@fbchess a6
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+37. a6
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+@fbchess Ba6
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+37... Bxa6
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Rxa6
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+38. Rxa6
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Kf5
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+38... Kf5
+Play chess in Messenger with your friends
+
+Player1
+@fbchess b5
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+39. b5
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Ke4
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+39... Ke4
+Play chess in Messenger with your friends
+
+Player1
+@fbchess b6
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+40. b6
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Kd3
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+40... Kd3
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Ra2
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+41. Ra2
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+@fbchess Pf5
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+41... f5
+Play chess in Messenger with your friends
+
+Player1
+@fbchess b7
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+42. b7
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess Pf4
+FBChess
+FBChess
+Player1 to move (White)
+Player1 vs Player2
+42... f4
+Play chess in Messenger with your friends
+
+Player1
+@fbchess Bxf4
+FBChess
+FBChess
+Player2 to move (Black)
+Player1 vs Player2
+43. Bxf4
+Play chess in Messenger with your friends
+
+Undo
+Player2 
+Player2
+@fbchess resign
+FBChess
+FBChess
+White wins!
