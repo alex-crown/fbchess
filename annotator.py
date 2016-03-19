@@ -8,7 +8,7 @@ nonmovestrings.extend(gameover)
 '''
 wrapper around readline
 lines returned are stripped
-in no more input lines remain, prints results and quits
+if no more input lines remain, prints results and quits
 '''
 def readnextline(input):
     line = input.readline()
