@@ -38,10 +38,10 @@ def readmove(input):
         return line
     
     # consume another line of input    
-    input.readline()    
+    readnextline(input)   
     
-    #return this line which contains the move number, side, and move
-    return input.readline().strip()
+    # return this line which contains the move number, side, and move
+    return readnextline(input)
     
 '''
 adds a single line of the form "movenum. move" to the list
@@ -54,7 +54,7 @@ def addmovetolist(list, line):
     movenum = int(movenum) - 1
     if movenum == len(list):
         list.append(move)
-    else: # there was an undo
+    else: # there was an undo or show
         list[movenum] = move
 
 '''
